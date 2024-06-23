@@ -6,7 +6,7 @@ Python 3.9
 # Installation
 Clone the repository:
 
-git clone https://github.com/Ahadthegreat/Face-Detection-YOLO.git
+[link text](git clone https://github.com/Ahadthegreat/Face-Detection-YOLO.git)
 Install the required packages:
 
-pip install -r requirements.txt
+[link text](pip install -r requirements.txt)
